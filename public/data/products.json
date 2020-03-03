@@ -1,0 +1,82 @@
+[{
+        "id": 1,
+        "title": "Apple Watch Series 4 GPS",
+        "description": "Redesigned from scratch and completely revised.",
+        "raiting": 3.4,
+        "price": 399,
+        "wishlist": false,
+        "img": "./images/apple-watch.png"
+    },
+    {
+        "id": 2,
+        "title": "JBL Speaker",
+        "description": "Redesigned from scratch and completely revised.",
+        "raiting": 5.0,
+        "price": 199,
+        "wishlist": false,
+        "img": "./images/jbl-speaker.png"
+    },
+    {
+        "id": 3,
+        "title": "Apple iPhone X 128GB",
+        "description": "Redesigned from scratch and completely revised.",
+        "raiting": 4.4,
+        "price": 899,
+        "wishlist": false,
+        "img": "./images/iphone-x.png"
+    },
+    {
+        "id": 4,
+        "title": "Beats Headphones",
+        "description": "Redesigned from scratch and completely revised.",
+        "raiting": 3.4,
+        "price": 459,
+        "wishlist": false,
+        "img": "./images/beats-headphones.png"
+    },
+    {
+        "id": 5,
+        "title": "Apple Macbook Pro 512GB SSD",
+        "description": "Redesigned from scratch and completely revised.",
+        "raiting": 4.5,
+        "price": 199,
+        "wishlist": false,
+        "img": "./images/macbook-pro.png"
+    },
+    {
+        "id": 6,
+        "title": "Apple iPad Pro 64GB",
+        "description": "Redesigned from scratch and completely revised.",
+        "raiting": 5.0,
+        "price": 899,
+        "wishlist": false,
+        "img": "./images/ipad-pro.png"
+    },
+    {
+        "id": 7,
+        "title": "Beats Headphones",
+        "description": "Redesigned from scratch and completely revised.",
+        "raiting": 3.3,
+        "price": 399,
+        "wishlist": false,
+        "img": "./images/homepod.png"
+    },
+    {
+        "id": 8,
+        "title": "Apple Macbook Pro 512GB SSD",
+        "description": "Redesigned from scratch and completely revised.",
+        "raiting": 5.0,
+        "price": 2499,
+        "wishlist": false,
+        "img": "./images/jlab-audio-wireless.png"
+    },
+    {
+        "id": 9,
+        "title": "Apple iPad Pro 64GB",
+        "description": "Redesigned from scratch and completely revised.",
+        "raiting": 4.4,
+        "price": 99,
+        "wishlist": false,
+        "img": "./images/magic-mouse.png"
+    }
+]

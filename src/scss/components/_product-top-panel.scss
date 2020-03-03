@@ -1,0 +1,39 @@
+.product-top-panel {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    .sort-panel {
+        display: flex;
+        align-items: center;
+    }
+    .btn-wrap {
+        display: flex;
+        align-items: center;
+    }
+    .btn-view {
+        margin-left: 12px;
+        &:not(:first-child) {
+            margin-left: 10px;
+        }
+    }
+}
+
+.btn-view {
+    @include animate(background-color color);
+    background-color: $white;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.135216);
+    border-radius: 8px;
+    &:hover {
+        background-color: lighten($blue-1, 20%);
+    }
+    &.active {
+        background-color: lighten($blue-1, 10%);
+        color: $red;
+    }
+}
